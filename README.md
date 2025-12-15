@@ -114,16 +114,3 @@ Hardware-Accelerated-Binary-Perceptron/
 - **Rafay**
 
 This project was developed collaboratively as part of the ENGG3050 course.
-
----
-
-## License
-This project is open-source under the [MIT License](LICENSE).
-
----
-
-Feel free to clone, modify, and use this project for learning or research purposes. Contributions are welcome!
-
---- 
-
-Let me know if you need further refinements! 🚀
